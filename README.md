@@ -3,7 +3,7 @@
 Price grid component
 ## Teachstack
 
-1.Frontend (reactjs-tailwind)
+- Frontend (reactjs-tailwind)
 
 ### `preview`
 
