@@ -7,4 +7,6 @@ Price grid component
 
 ### `preview`
 
+(./Design/preview-1.png)
+
 
